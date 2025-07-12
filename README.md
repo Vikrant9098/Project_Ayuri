@@ -25,6 +25,7 @@ This project was built to:
 It serves as a showcase of both technical depth and design thinking, highlighting solutions for real-world healthcare challenges.
 
 Key Features:
+
 Frontend (React):
 - Video Calling Interface (WebRTC): Real-time doctor-patient consultations with HD video and mic support
 - Live Chat: Secure, real-time chat integrated within the call using Socket.IO
@@ -32,6 +33,7 @@ Frontend (React):
 - Patient Dashboard: Medical history timeline with easy access to prescriptions, past consultations, and reports
 - Prescription Management: Doctors can upload prescriptions with dynamic QR code generation for pharmacy verification
 - Responsive Design: Fully optimized UI for mobile, tablet, and desktop devices
+
 Backend (Spring Boot):
 - WebSocket Support: Enables real-time updates for chat, appointment changes, and video readiness
 - JWT Authentication: Role-based access control for patients, doctors, and admins
